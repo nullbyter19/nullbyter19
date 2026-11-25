@@ -19,7 +19,7 @@ $ cat focus.txt
 offensive security · av/edr evasion · payload delivery · exploit development
 
 $ ls ~/current
-oswe-prep/   umbra/   deadbyte/   deaddrop/   php2shell/
+umbra/   deadbyte/   deaddrop/   php2shell/   umbra-microsoft-lure/
 ```
 
 > Security researcher focused on **evasion, payload delivery and bypassing AV/EDR**.
@@ -135,7 +135,6 @@ oswe-prep/   umbra/   deadbyte/   deaddrop/   php2shell/
 ## Currently
 
 ```yaml
-studying:   OSWE (WEB-300) — white-box web exploitation, exploit chains, PoC discipline
 building:   umbra  ·  deadbyte  ·  deaddrop
 writing:    PoCs, technique notes and lab runbooks (English, reproducible, verifiable)
 ```
@@ -154,10 +153,6 @@ writing:    PoCs, technique notes and lab runbooks (English, reproducible, verif
 <br/>
 
 <div align="center">
-<sub>
-
-All tooling in this profile is published for **authorized security testing, research and education**.<br/>
-Use it only against systems you own or have written permission to test.
-
-</sub>
+<sub>All tooling in this profile is published for <strong>authorized security testing, research and education</strong>.<br/>
+Use it only against systems you own or have written permission to test.</sub>
 </div>
